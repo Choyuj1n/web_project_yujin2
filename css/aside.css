@@ -1,0 +1,17 @@
+/* aside 왼족 메뉴 css */
+
+aside {
+    width:200px;
+}
+
+aside #login_box {
+    width:190px;
+    height:120px;
+    border:solid 1px #dddddd;
+    border-radius:10px;
+    background-color:#f3f3f3;
+}
+
+aside #input_button {
+    margin:10px 0 0 10px; /* top, left 여백 10px 지정 */
+}
