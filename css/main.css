@@ -2,6 +2,7 @@
 
 main {
     width:770px;
+    float:right;
 }
 
 main #notice_free_youtube {
@@ -22,7 +23,7 @@ main .latest_title {
     border-bottom:solid 1px #cccccc;
 }
 
-main .latest_title .laiest_img {
+main .latest_title .latest_img {
     float:left;
 }
 
@@ -30,7 +31,7 @@ main .latest_title .more {
     float:right;
 }
 
-main .latest_content .book_img {
+main .latest_content .book_image {
     float:left;
     margin:10px 0 0 20px;
 }
@@ -47,6 +48,6 @@ main .latest_content .list .subject {
     width:170px;
 }
 
-main .latest_content .li {
+main .latest_content li {
     padding:10px 0 10px 0;
 }

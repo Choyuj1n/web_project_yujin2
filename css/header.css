@@ -12,7 +12,7 @@ header #logo {
 header #top_menu {
     position:absolute;
     top:15px;
-    left:775px;
+    left:770px;
 }
 
 header #main_menu {
@@ -27,8 +27,8 @@ header #main_menu {
 
 header #main_menu li {
     display:inline-block; /* 리스트 수평으로 정렬 */
-    margin:10px 30.5px 0 51px;
-    color:#ffffff;
+    margin:8px 31px 0 51px;
+    font-size:13px;
 }
 
 header #main_menu a:link {

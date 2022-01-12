@@ -11,7 +11,7 @@ aside #login_box {
     border:solid 1px #dddddd;
     border-radius:10px;
     background-color:#f3f3f3;
-    margin-bottom:20px;
+    margin-bottom:10px;
 }
 
 aside #input_button {
@@ -61,7 +61,7 @@ aside #guestbook li {
 }
 
 aside #guestbook li {
-    margin:7px 0 0 40px;
+    margin:10px 0 0 40px;
 }
 
 aside #guestbook_title {
