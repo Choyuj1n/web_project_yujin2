@@ -6,15 +6,16 @@ main {
 }
 
 main #notice_free_youtube {
-    border:solid 1px red;
+    /* border:solid 1px red; */
     height:250px;
     position:relative;
     margin:10px 0 0 0;
 }
-
+/* 공지사항 */
 main #notice {
-    border:solid 1px red;
+    /* border:solid 1px red; */
     width:370px;
+    position:absolute;
 }
 
 main .latest_title {
@@ -50,4 +51,44 @@ main .latest_content .list .subject {
 
 main .latest_content li {
     padding:10px 0 10px 0;
+}
+
+/* 자유게시판 */
+main #free {
+    width:370px;
+    /* border:solid 1px red; */
+    position:absolute;
+    top:120px;
+}
+
+/* YOUTUBE 동영상 */
+main #youtube {
+    width:370px;
+    position:absolute;
+    left:380px;
+    /* border:solid 1px blue;*/
+}
+
+main #youtube_img {
+    margin:10px 0 0 50px;
+}
+
+/* 포토 갤러리 */
+main #gallery_box {
+    width:740px;
+    height:205px;
+    border:solid 1px #cccccc;
+    border-radius:10px;
+    box-shadow:2px 2px 5px #dddddd;
+    margin:10px 0 0 10px;
+}
+
+main #gallery_list {
+    padding:25px 0 0 15px;
+}
+
+#gallery .items {
+    float:left;
+    text-align:center;
+    margin:10px 0 0 40px;
 }
