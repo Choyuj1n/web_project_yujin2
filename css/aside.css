@@ -75,7 +75,7 @@ aside #guestbook_title {
 
 /* 서브 메뉴 */
 aside #sub_menu {
-    margin:15px 0 0 2.5px;
+    margin:15px 0 0 0px;
     width:190px;
     height:320px;
     background-image:url("../img/sub_menu_bg.png");
@@ -85,7 +85,7 @@ aside #sub_menu {
 aside #sub_menu ul {
     padding:80px 0 0 30px;
 }
-aside #sub_menu ul {
+aside #sub_menu li {
     margin-top:10px;
 }
 

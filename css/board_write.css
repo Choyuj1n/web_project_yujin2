@@ -35,6 +35,17 @@ main #content textarea {
 }
 
 main #buttons {
-    test-align:right;
+    text-align:right;
     margin:10px 10px 0 0;
+}
+
+main table th.subject_view {
+    text
+}
+
+
+main #board_title{
+    margin-top:20px;
+    border-bottom:solid 1px #bbbbbb;
+    padding:0 0 5px 0;
 }
